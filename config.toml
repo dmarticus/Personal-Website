@@ -1,0 +1,26 @@
+baseurl = "http://dylanamartin.comc/"
+title = "Dylan Martin"
+theme = "hugo-theme-nix"
+languageCode = "en-us"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/blog"
+  [[menu.header]]
+    name = "projects"
+    weight = 1
+    url = "/projects"
+
+[params]
+  GithubID = "dmarticus"
+  TwitterID = "dmarticus"
+  LinkedInID = "dmarticus"
+  InstagramID = "dmarticus"
+  Name = "Dylan Martin"
+  HeaderUsername = "dylan"
+  HeaderHostname = "the_internet"
+  Email = "dmarticus@gmail.com"
+  ProfilePicture = "/profile-pic.jpg"
+
