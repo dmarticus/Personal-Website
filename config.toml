@@ -1,4 +1,4 @@
-baseurl = "http://dylanamartin.comc/"
+baseurl = "http://dylanamartin.com/"
 title = "Dylan Martin"
 theme = "hugo-theme-nix"
 languageCode = "en-us"
