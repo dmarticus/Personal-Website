@@ -2,6 +2,7 @@ baseurl = "http://dylanamartin.com/"
 title = "Dylan Martin"
 theme = "new-theme"
 languageCode = "en-us"
+publishDir = "public"
 
 [menu]
   [[menu.header]]
